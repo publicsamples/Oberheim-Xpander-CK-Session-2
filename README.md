@@ -19,13 +19,6 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 3. Open EXS24 and select "Refresh Library" in the Library pane
 4. Select patches under "User Patches" in the library panel 
 
-**Logic Smart Controls**
-
-1. Copy the folder "Logic Stacks" to Music/Audio Music Apps/Patches/Instrument
-2. In Logic create a new "Stack Track" and select "Summing"
-3. Select patches under "User Patches" in the library panel
-4. Open Smart Controls to edit the patch
-
 **Kontakt**
 
 1. Move the Audio and NKI folders to where ever you like
