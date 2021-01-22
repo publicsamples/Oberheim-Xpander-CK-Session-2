@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR3HI1LO.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SQR3HI1LO/(201639 102233)/
+
+<group>        // SQR3HI1LO
+<region> sample=SQR3HI1LO-38-16-1QMF.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=285138 loop_end=423378
+<region> sample=SQR3HI1LO-38-32-EOQN.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=133630 loop_end=610815
+<region> sample=SQR3HI1LO-38-48-QPR6.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93097 loop_end=332711
+<region> sample=SQR3HI1LO-38-64-BLFZ.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=102690 loop_end=610592
+<region> sample=SQR3HI1LO-38-79-WXL3.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=101762 loop_end=219530
+<region> sample=SQR3HI1LO-38-95-O734.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=140571 loop_end=584986
+<region> sample=SQR3HI1LO-38-111-GF5Z.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=485576 loop_end=598790
+<region> sample=SQR3HI1LO-38-127-39LJ.wav key=36 amp_veltrack=0  lokey=36 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=135365 loop_end=599239
+<region> sample=SQR3HI1LO-44-16-EBTT.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=389098 loop_end=605155
+<region> sample=SQR3HI1LO-44-32-EX2N.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=212806 loop_end=610117
+<region> sample=SQR3HI1LO-44-48-EYGR.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=382154 loop_end=580821
+<region> sample=SQR3HI1LO-44-64-G5XP.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=410674 loop_end=612419
+<region> sample=SQR3HI1LO-44-79-S55W.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=173632 loop_end=592450
+<region> sample=SQR3HI1LO-44-95-5E5B.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=198626 loop_end=588772
+<region> sample=SQR3HI1LO-44-111-AYJU.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=349113 loop_end=495561
+<region> sample=SQR3HI1LO-44-127-G649.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=124748 loop_end=256825
+<region> sample=SQR3HI1LO-50-16-JMLY.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=155582 loop_end=266613
+<region> sample=SQR3HI1LO-50-32-JRIY.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=166154 loop_end=572677
+<region> sample=SQR3HI1LO-50-48-E2U2.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=234311 loop_end=522343
+<region> sample=SQR3HI1LO-50-64-LY47.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=309626 loop_end=605277
+<region> sample=SQR3HI1LO-50-79-T1OJ.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=202457 loop_end=455828
+<region> sample=SQR3HI1LO-50-95-EUG9.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=314471 loop_end=427685
+<region> sample=SQR3HI1LO-50-111-M1SX.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=381734 loop_end=612593
+<region> sample=SQR3HI1LO-50-127-P7Q8.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=129115 loop_end=267312
+<region> sample=SQR3HI1LO-56-16-7SGV.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=182385 loop_end=604284
+<region> sample=SQR3HI1LO-56-32-X4G5.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=240947 loop_end=609114
+<region> sample=SQR3HI1LO-56-48-YCWN.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=176765 loop_end=536190
+<region> sample=SQR3HI1LO-56-64-SFQ6.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=249960 loop_end=384593
+<region> sample=SQR3HI1LO-56-79-JJBN.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=219398 loop_end=354034
+<region> sample=SQR3HI1LO-56-95-Y9QB.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=275691 loop_end=446171
+<region> sample=SQR3HI1LO-56-111-34N8.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=249122 loop_end=391466
+<region> sample=SQR3HI1LO-56-127-JASJ.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=375366 loop_end=486637
+<region> sample=SQR3HI1LO-62-16-2RLB.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=159817 loop_end=608618
+<region> sample=SQR3HI1LO-62-32-QAGD.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=167125 loop_end=284338
+<region> sample=SQR3HI1LO-62-48-9F2B.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=102512 loop_end=220477
+<region> sample=SQR3HI1LO-62-64-CJ4Z.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=397228 loop_end=511158
+<region> sample=SQR3HI1LO-62-79-6JAW.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=349952 loop_end=467131
+<region> sample=SQR3HI1LO-62-95-NNK3.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=321912 loop_end=604948
+<region> sample=SQR3HI1LO-62-111-G5RP.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=127137 loop_end=284685
+<region> sample=SQR3HI1LO-62-127-UTB9.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=481553 loop_end=608678
+<region> sample=SQR3HI1LO-68-16-55V3.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=173879 loop_end=607905
+<region> sample=SQR3HI1LO-68-32-MSTB.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=309906 loop_end=600001
+<region> sample=SQR3HI1LO-68-48-69P0.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=114798 loop_end=229832
+<region> sample=SQR3HI1LO-68-64-UAEF.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=132902 loop_end=607056
+<region> sample=SQR3HI1LO-68-79-04C6.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=281245 loop_end=386651
+<region> sample=SQR3HI1LO-68-95-F052.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=364075 loop_end=523270
+<region> sample=SQR3HI1LO-68-111-OCAG.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=473294 loop_end=576922
+<region> sample=SQR3HI1LO-68-127-T1V5.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=364810 loop_end=519344
+<region> sample=SQR3HI1LO-72-16-HGG8.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=315127 loop_end=430818
+<region> sample=SQR3HI1LO-72-32-ZGHL.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=468282 loop_end=610825
+<region> sample=SQR3HI1LO-72-48-J56S.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=363553 loop_end=477210
+<region> sample=SQR3HI1LO-72-64-L0KN.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=163512 loop_end=564682
+<region> sample=SQR3HI1LO-72-79-CDGK.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=148627 loop_end=258079
+<region> sample=SQR3HI1LO-72-95-HS6T.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=437864 loop_end=563672
+<region> sample=SQR3HI1LO-72-111-Z4FJ.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=106606 loop_end=215130
+<region> sample=SQR3HI1LO-72-127-OJ7H.wav key=72 amp_veltrack=0  lokey=69 hikey=72 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=124814 loop_end=562912

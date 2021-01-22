@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - BPPULSE.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/BPPULSE/(201639 85844)/
+
+<group>        // BPPULSE
+<region> sample=BPPULSE-38-16-ZYO6.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=93867 loop_end=198398
+<region> sample=BPPULSE-38-32-SK9Y.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=93891 loop_end=198371
+<region> sample=BPPULSE-38-48-UGQH.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=94305 loop_end=198698
+<region> sample=BPPULSE-38-64-7SKX.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=332358 loop_end=534087
+<region> sample=BPPULSE-38-79-XT66.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=255003 loop_end=595995
+<region> sample=BPPULSE-38-95-NETQ.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=97150 loop_end=603463
+<region> sample=BPPULSE-38-111-K3P8.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=101074 loop_end=605912
+<region> sample=BPPULSE-38-127-PNAU.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=385214 loop_end=536765
+<region> sample=BPPULSE-44-16-GSQ2.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=93546 loop_end=198488
+<region> sample=BPPULSE-44-32-B5FL.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=94445 loop_end=197430
+<region> sample=BPPULSE-44-48-C3R5.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92999 loop_end=198945
+<region> sample=BPPULSE-44-64-UCGR.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93481 loop_end=198517
+<region> sample=BPPULSE-44-79-ZSS0.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=140070 loop_end=404247
+<region> sample=BPPULSE-44-95-VLT8.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=214269 loop_end=349437
+<region> sample=BPPULSE-44-111-ZYWW.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=248556 loop_end=601815
+<region> sample=BPPULSE-44-127-3Z8H.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=177994 loop_end=310097
+<region> sample=BPPULSE-50-16-SWXI.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=396919 loop_end=576836
+<region> sample=BPPULSE-50-32-FE2D.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=95266 loop_end=598058
+<region> sample=BPPULSE-50-48-HN8J.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=138297 loop_end=591926
+<region> sample=BPPULSE-50-64-GNXC.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=113926 loop_end=611595
+<region> sample=BPPULSE-50-79-XSFB.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=182374 loop_end=498339
+<region> sample=BPPULSE-50-95-RME2.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=183963 loop_end=599416
+<region> sample=BPPULSE-50-111-B4UT.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=372878 loop_end=479345
+<region> sample=BPPULSE-50-127-U6IU.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=267351 loop_end=569430
+<region> sample=BPPULSE-56-16-SQ7H.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=115724 loop_end=536204
+<region> sample=BPPULSE-56-32-S8RM.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=94176 loop_end=197060
+<region> sample=BPPULSE-56-48-ZLC3.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=145796 loop_end=572309
+<region> sample=BPPULSE-56-64-E08S.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=264323 loop_end=596559
+<region> sample=BPPULSE-56-79-MZ27.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=94362 loop_end=197711
+<region> sample=BPPULSE-56-95-4CLQ.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=98072 loop_end=235807
+<region> sample=BPPULSE-56-111-NI1Q.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=251956 loop_end=424512
+<region> sample=BPPULSE-56-127-4JY3.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=264039 loop_end=370055
+<region> sample=BPPULSE-62-16-UL53.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=105374 loop_end=226218
+<region> sample=BPPULSE-62-32-JM88.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=344306 loop_end=610773
+<region> sample=BPPULSE-62-48-DN5K.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=220829 loop_end=340181
+<region> sample=BPPULSE-62-64-F8GX.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=130258 loop_end=607559
+<region> sample=BPPULSE-62-79-GUAQ.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=364610 loop_end=470807
+<region> sample=BPPULSE-62-95-KCW9.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=432748 loop_end=541144
+<region> sample=BPPULSE-62-111-ZUXC.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=345319 loop_end=474601
+<region> sample=BPPULSE-62-127-8Z4L.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=475925 loop_end=588023
+<region> sample=BPPULSE-68-16-GEBP.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=223799 loop_end=348922
+<region> sample=BPPULSE-68-32-5HA7.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=223469 loop_end=595321
+<region> sample=BPPULSE-68-48-F6CG.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=182435 loop_end=291763
+<region> sample=BPPULSE-68-64-KJBJ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93048 loop_end=198756
+<region> sample=BPPULSE-68-79-DBQM.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=122137 loop_end=230942
+<region> sample=BPPULSE-68-95-YOMP.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=247644 loop_end=600152
+<region> sample=BPPULSE-68-111-0LGZ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=452911 loop_end=582967
+<region> sample=BPPULSE-68-127-6NFJ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=402564 loop_end=525640
+<region> sample=BPPULSE-72-16-MX8C.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=264429 loop_end=387453
+<region> sample=BPPULSE-72-32-D2AX.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=301209 loop_end=579802
+<region> sample=BPPULSE-72-48-3YOU.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=483460 loop_end=590141
+<region> sample=BPPULSE-72-64-M2EL.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=318599 loop_end=440547
+<region> sample=BPPULSE-72-79-5RZ6.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=302705 loop_end=450854
+<region> sample=BPPULSE-72-95-4652.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=104932 loop_end=210861
+<region> sample=BPPULSE-72-111-PABV.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=95013 loop_end=573528
+<region> sample=BPPULSE-72-127-FKYX.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=465190 loop_end=583632

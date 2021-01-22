@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-PHASE.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SQR-PHASE/(201639 9527)/
+
+<group>        // SQR-PHASE
+<region> sample=SQR-PHASE-38-16-3DHN.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=335400 loop_end=598571
+<region> sample=SQR-PHASE-38-32-Y770.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=157206 loop_end=429590
+<region> sample=SQR-PHASE-38-48-UMZA.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=329529 loop_end=556282
+<region> sample=SQR-PHASE-38-64-K7XQ.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=128651 loop_end=611402
+<region> sample=SQR-PHASE-38-79-DT3E.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=401431 loop_end=516122
+<region> sample=SQR-PHASE-38-95-LZES.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=133384 loop_end=572232
+<region> sample=SQR-PHASE-38-111-WB85.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=101647 loop_end=408847
+<region> sample=SQR-PHASE-38-127-YH91.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=95101 loop_end=212866
+<region> sample=SQR-PHASE-44-16-3S5L.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=126809 loop_end=324440
+<region> sample=SQR-PHASE-44-32-EWRO.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=258279 loop_end=596204
+<region> sample=SQR-PHASE-44-48-6V9V.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=256217 loop_end=467162
+<region> sample=SQR-PHASE-44-64-KZPI.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=166915 loop_end=298001
+<region> sample=SQR-PHASE-44-79-U3A9.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=150001 loop_end=294387
+<region> sample=SQR-PHASE-44-95-CCQB.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=395235 loop_end=528355
+<region> sample=SQR-PHASE-44-111-WFD8.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=412534 loop_end=610162
+<region> sample=SQR-PHASE-44-127-PL97.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=304208 loop_end=438352
+<region> sample=SQR-PHASE-50-16-2Z0R.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=102237 loop_end=323419
+<region> sample=SQR-PHASE-50-32-700W.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=458611 loop_end=568926
+<region> sample=SQR-PHASE-50-48-RZOW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=148960 loop_end=256193
+<region> sample=SQR-PHASE-50-64-G1UL.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=95121 loop_end=519350
+<region> sample=SQR-PHASE-50-79-XRV9.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=329684 loop_end=468660
+<region> sample=SQR-PHASE-50-95-LDON.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=135366 loop_end=250047
+<region> sample=SQR-PHASE-50-111-5LHE.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=388798 loop_end=514458
+<region> sample=SQR-PHASE-50-127-DRPT.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=111237 loop_end=540001
+<region> sample=SQR-PHASE-56-16-A3ZI.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=332133 loop_end=439126
+<region> sample=SQR-PHASE-56-32-FAFD.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=338286 loop_end=609629
+<region> sample=SQR-PHASE-56-48-H730.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=296183 loop_end=601320
+<region> sample=SQR-PHASE-56-64-03AW.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=131509 loop_end=576419
+<region> sample=SQR-PHASE-56-79-WUJ5.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=284334 loop_end=389814
+<region> sample=SQR-PHASE-56-95-4YID.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=304199 loop_end=602152
+<region> sample=SQR-PHASE-56-111-R63G.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=378448 loop_end=484916
+<region> sample=SQR-PHASE-56-127-NOJP.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=167455 loop_end=610842
+<region> sample=SQR-PHASE-62-16-Y4T7.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=413424 loop_end=522567
+<region> sample=SQR-PHASE-62-32-W42U.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=206455 loop_end=567696
+<region> sample=SQR-PHASE-62-48-GJEO.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=198988 loop_end=583604
+<region> sample=SQR-PHASE-62-64-TZ3D.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=305676 loop_end=593906
+<region> sample=SQR-PHASE-62-79-WPR1.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=159678 loop_end=285280
+<region> sample=SQR-PHASE-62-95-H1TS.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=346165 loop_end=585763
+<region> sample=SQR-PHASE-62-111-Y879.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=188178 loop_end=589138
+<region> sample=SQR-PHASE-62-127-8654.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=349390 loop_end=469196
+<region> sample=SQR-PHASE-68-16-F1EC.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=324971 loop_end=446764
+<region> sample=SQR-PHASE-68-32-I2ZR.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=245301 loop_end=553410
+<region> sample=SQR-PHASE-68-48-2DRY.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=247466 loop_end=610176
+<region> sample=SQR-PHASE-68-64-AHX0.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=296822 loop_end=405379
+<region> sample=SQR-PHASE-68-79-G5PW.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=170532 loop_end=289757
+<region> sample=SQR-PHASE-68-95-XIMR.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=355400 loop_end=580596
+<region> sample=SQR-PHASE-68-111-PTS7.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=315684 loop_end=420334
+<region> sample=SQR-PHASE-68-127-D4RN.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=333165 loop_end=473458
+<region> sample=SQR-PHASE-72-16-0G45.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=427210 loop_end=561972
+<region> sample=SQR-PHASE-72-32-U3RW.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=333173 loop_end=441689
+<region> sample=SQR-PHASE-72-48-LW5P.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=188856 loop_end=602991
+<region> sample=SQR-PHASE-72-64-QPLS.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=275446 loop_end=600546
+<region> sample=SQR-PHASE-72-79-4DQB.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=449688 loop_end=594950
+<region> sample=SQR-PHASE-72-95-0YSA.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=210690 loop_end=578834
+<region> sample=SQR-PHASE-72-111-HPJG.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=99903 loop_end=599912
+<region> sample=SQR-PHASE-72-127-3MAZ.wav key=72 amp_veltrack=0  lokey=69 hikey=126 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=121143 loop_end=224706

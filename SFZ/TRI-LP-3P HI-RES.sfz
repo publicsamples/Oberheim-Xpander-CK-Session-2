@@ -1,0 +1,46 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TRI-LP-3P HI-RES.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/TRI-LP-3P HI-RES/(201633 204316)/
+
+<group>        // TRI-LP-3P HI-RES
+<region> sample=TRI-LP-3P HI-RES-36-42-1UKN.wav key=36 amp_veltrack=0  lokey=0 hikey=36 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=627 loop_end=135948
+<region> sample=TRI-LP-3P HI-RES-36-85-WGTP.wav key=36 amp_veltrack=0  lokey=0 hikey=36 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=197744 loop_end=640114
+<region> sample=TRI-LP-3P HI-RES-36-#A23866.wav key=36 amp_veltrack=0  lokey=0 hikey=36 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=67472 loop_end=667537
+<region> sample=TRI-LP-3P HI-RES-39-42-MNM1.wav key=39 amp_veltrack=0  lokey=37 hikey=39 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=879 loop_end=135417
+<region> sample=TRI-LP-3P HI-RES-39-85-6H5N.wav key=39 amp_veltrack=0  lokey=37 hikey=39 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=387653 loop_end=538180
+<region> sample=TRI-LP-3P HI-RES-39-#A23869.wav key=39 amp_veltrack=0  lokey=37 hikey=39 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=149470 loop_end=376587
+<region> sample=TRI-LP-3P HI-RES-42-42-00EL.wav key=42 amp_veltrack=0  lokey=40 hikey=42 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=551 loop_end=135633
+<region> sample=TRI-LP-3P HI-RES-42-85-9FTE.wav key=42 amp_veltrack=0  lokey=40 hikey=42 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=343571 loop_end=566809
+<region> sample=TRI-LP-3P HI-RES-42-#A2386C.wav key=42 amp_veltrack=0  lokey=40 hikey=42 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=316098 loop_end=564933
+<region> sample=TRI-LP-3P HI-RES-45-42-TTOD.wav key=45 amp_veltrack=0  lokey=43 hikey=45 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=211 loop_end=136339
+<region> sample=TRI-LP-3P HI-RES-45-85-9MGW.wav key=45 amp_veltrack=0  lokey=43 hikey=45 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=172725 loop_end=384695
+<region> sample=TRI-LP-3P HI-RES-45-#A2386F.wav key=45 amp_veltrack=0  lokey=43 hikey=45 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=155717 loop_end=309316
+<region> sample=TRI-LP-3P HI-RES-48-42-JFL8.wav key=48 amp_veltrack=0  lokey=46 hikey=48 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=20 loop_end=135867
+<region> sample=TRI-LP-3P HI-RES-48-85-3WG1.wav key=48 amp_veltrack=0  lokey=46 hikey=48 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=408878 loop_end=667954
+<region> sample=TRI-LP-3P HI-RES-48-#A23872.wav key=48 amp_veltrack=0  lokey=46 hikey=48 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=91885 loop_end=646891
+<region> sample=TRI-LP-3P HI-RES-51-42-R6MN.wav key=51 amp_veltrack=0  lokey=49 hikey=51 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=82 loop_end=136959
+<region> sample=TRI-LP-3P HI-RES-51-85-Z6WB.wav key=51 amp_veltrack=0  lokey=49 hikey=51 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=249925 loop_end=425648
+<region> sample=TRI-LP-3P HI-RES-51-#A23875.wav key=51 amp_veltrack=0  lokey=49 hikey=51 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=295603 loop_end=675509
+<region> sample=TRI-LP-3P HI-RES-54-42-Z0W7.wav key=54 amp_veltrack=0  lokey=52 hikey=54 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=82 loop_end=136051
+<region> sample=TRI-LP-3P HI-RES-54-85-YK8I.wav key=54 amp_veltrack=0  lokey=52 hikey=54 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=501251 loop_end=654855
+<region> sample=TRI-LP-3P HI-RES-54-#A23878.wav key=54 amp_veltrack=0  lokey=52 hikey=54 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=419924 loop_end=582232
+<region> sample=TRI-LP-3P HI-RES-57-42-WW2F.wav key=57 amp_veltrack=0  lokey=55 hikey=57 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=705 loop_end=136278
+<region> sample=TRI-LP-3P HI-RES-57-85-1BQT.wav key=57 amp_veltrack=0  lokey=55 hikey=57 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=436295 loop_end=613293
+<region> sample=TRI-LP-3P HI-RES-57-#A2387B.wav key=57 amp_veltrack=0  lokey=55 hikey=57 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=233652 loop_end=413295
+<region> sample=TRI-LP-3P HI-RES-60-42-IZA2.wav key=60 amp_veltrack=0  lokey=58 hikey=60 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=448 loop_end=211396
+<region> sample=TRI-LP-3P HI-RES-60-85-3W61.wav key=60 amp_veltrack=0  lokey=58 hikey=60 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=387985 loop_end=554165
+<region> sample=TRI-LP-3P HI-RES-60-#A2387E.wav key=60 amp_veltrack=0  lokey=58 hikey=60 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=337818 loop_end=618321
+<region> sample=TRI-LP-3P HI-RES-63-42-JZPO.wav key=63 amp_veltrack=0  lokey=61 hikey=63 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=221791 loop_end=470594
+<region> sample=TRI-LP-3P HI-RES-63-85-7GMT.wav key=63 amp_veltrack=0  lokey=61 hikey=63 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=306972 loop_end=654115
+<region> sample=TRI-LP-3P HI-RES-63-#A23881.wav key=63 amp_veltrack=0  lokey=61 hikey=63 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=77350 loop_end=589151
+<region> sample=TRI-LP-3P HI-RES-66-42-ORVN.wav key=66 amp_veltrack=0  lokey=64 hikey=66 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=267 loop_end=392558
+<region> sample=TRI-LP-3P HI-RES-66-85-89S3.wav key=66 amp_veltrack=0  lokey=64 hikey=66 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=285969 loop_end=426757
+<region> sample=TRI-LP-3P HI-RES-66-#A23884.wav key=66 amp_veltrack=0  lokey=64 hikey=66 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=338744 loop_end=588099
+<region> sample=TRI-LP-3P HI-RES-69-42-31YJ.wav key=69 amp_veltrack=0  lokey=67 hikey=69 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=233194 loop_end=390838
+<region> sample=TRI-LP-3P HI-RES-69-85-SBX6.wav key=69 amp_veltrack=0  lokey=67 hikey=69 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=101013 loop_end=259732
+<region> sample=TRI-LP-3P HI-RES-69-#A23887.wav key=69 amp_veltrack=0  lokey=67 hikey=69 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=225454 loop_end=671815
+<region> sample=TRI-LP-3P HI-RES-72-42-GO3C.wav key=72 amp_veltrack=0  lokey=70 hikey=119 lovel=1 hivel=42 loop_mode=loop_continuous loop_start=300113 loop_end=522438
+<region> sample=TRI-LP-3P HI-RES-72-85-RIR6.wav key=72 amp_veltrack=0  lokey=70 hikey=119 lovel=43 hivel=85 loop_mode=loop_continuous loop_start=909 loop_end=135850
+<region> sample=TRI-LP-3P HI-RES-72-#A2388A.wav key=72 amp_veltrack=0  lokey=70 hikey=119 lovel=86 hivel=127 loop_mode=loop_continuous loop_start=436154 loop_end=671354

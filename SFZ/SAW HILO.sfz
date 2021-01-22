@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW HILO.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SAW HILO/(201639 10721)/
+
+<group>        // SAW HILO
+<region> sample=SAW HILO-38-16-1OV4.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=135819 loop_end=431755
+<region> sample=SAW HILO-38-32-VWI5.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=139834 loop_end=257590
+<region> sample=SAW HILO-38-48-BBL9.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=193877 loop_end=549782
+<region> sample=SAW HILO-38-64-UKMH.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=285037 loop_end=594285
+<region> sample=SAW HILO-38-79-VRW3.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=280382 loop_end=496447
+<region> sample=SAW HILO-38-95-MZJO.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=473961 loop_end=591726
+<region> sample=SAW HILO-38-111-SY37.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=130904 loop_end=247198
+<region> sample=SAW HILO-38-127-1IO8.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=156499 loop_end=577364
+<region> sample=SAW HILO-44-16-O5HS.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=400340 loop_end=610276
+<region> sample=SAW HILO-44-32-KZGD.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=321166 loop_end=451213
+<region> sample=SAW HILO-44-48-PEBO.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=111433 loop_end=471880
+<region> sample=SAW HILO-44-64-D4R4.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=340822 loop_end=602950
+<region> sample=SAW HILO-44-79-KYT2.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=301678 loop_end=498303
+<region> sample=SAW HILO-44-95-NQXA.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=478082 loop_end=612227
+<region> sample=SAW HILO-44-111-LQRH.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=258703 loop_end=610958
+<region> sample=SAW HILO-44-127-Q3IA.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=304892 loop_end=434939
+<region> sample=SAW HILO-50-16-DBPV.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=133993 loop_end=449829
+<region> sample=SAW HILO-50-32-2AQH.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=169849 loop_end=341147
+<region> sample=SAW HILO-50-48-SLOA.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=229979 loop_end=582971
+<region> sample=SAW HILO-50-64-NLOR.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=113025 loop_end=611423
+<region> sample=SAW HILO-50-79-9TTW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=96761 loop_end=381143
+<region> sample=SAW HILO-50-95-ZLWM.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=147402 loop_end=604842
+<region> sample=SAW HILO-50-111-9HTK.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=409232 loop_end=516457
+<region> sample=SAW HILO-50-127-GASC.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=410386 loop_end=530944
+<region> sample=SAW HILO-56-16-HUKF.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=224622 loop_end=361849
+<region> sample=SAW HILO-56-32-IF7M.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=288401 loop_end=424586
+<region> sample=SAW HILO-56-48-O9CA.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=471615 loop_end=575539
+<region> sample=SAW HILO-56-64-SHDK.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=315296 loop_end=580509
+<region> sample=SAW HILO-56-79-3S7E.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=240914 loop_end=348434
+<region> sample=SAW HILO-56-95-CXKF.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=280534 loop_end=587722
+<region> sample=SAW HILO-56-111-TWNN.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=190104 loop_end=324722
+<region> sample=SAW HILO-56-127-R8L4.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=233802 loop_end=374128
+<region> sample=SAW HILO-62-16-6ES6.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=340238 loop_end=468445
+<region> sample=SAW HILO-62-32-U0H6.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=257552 loop_end=610832
+<region> sample=SAW HILO-62-48-YQQ8.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=108552 loop_end=561817
+<region> sample=SAW HILO-62-64-30TT.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=433197 loop_end=600770
+<region> sample=SAW HILO-62-79-MZIV.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=334439 loop_end=439174
+<region> sample=SAW HILO-62-95-KII8.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=375780 loop_end=528292
+<region> sample=SAW HILO-62-111-ODZ8.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=382953 loop_end=604067
+<region> sample=SAW HILO-62-127-R8IW.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=98460 loop_end=223435
+<region> sample=SAW HILO-68-16-UIQL.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=389146 loop_end=496901
+<region> sample=SAW HILO-68-32-QEO9.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=392738 loop_end=589602
+<region> sample=SAW HILO-68-48-01Z6.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=481082 loop_end=590690
+<region> sample=SAW HILO-68-64-PSMO.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=109841 loop_end=587783
+<region> sample=SAW HILO-68-79-5VAM.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=429547 loop_end=556534
+<region> sample=SAW HILO-68-95-6VQB.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=120831 loop_end=522227
+<region> sample=SAW HILO-68-111-J1LG.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=137139 loop_end=287183
+<region> sample=SAW HILO-68-127-7PC2.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=227883 loop_end=607249
+<region> sample=SAW HILO-72-16-Q67A.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=457789 loop_end=609306
+<region> sample=SAW HILO-72-32-MSZ0.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=428008 loop_end=535819
+<region> sample=SAW HILO-72-48-Y9ZT.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=404246 loop_end=593950
+<region> sample=SAW HILO-72-64-YLMT.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=170915 loop_end=530609
+<region> sample=SAW HILO-72-79-ATF2.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=318229 loop_end=423984
+<region> sample=SAW HILO-72-95-GL4M.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=193438 loop_end=300293
+<region> sample=SAW HILO-72-111-LIRS.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=362971 loop_end=472231
+<region> sample=SAW HILO-72-127-JP7E.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=422387 loop_end=541579

@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-PHS-LOW.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SAW-PHS-LOW/(201639 103746)/
+
+<group>        // SAW-PHS-LOW
+<region> sample=SAW-PHS-LOW-38-16-O8S4.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=97512 loop_end=337128
+<region> sample=SAW-PHS-LOW-38-32-J3EJ.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=150705 loop_end=421618
+<region> sample=SAW-PHS-LOW-38-48-54IC.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=309788 loop_end=487964
+<region> sample=SAW-PHS-LOW-38-64-80M6.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=106793 loop_end=610161
+<region> sample=SAW-PHS-LOW-38-79-XIB5.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=263667 loop_end=563698
+<region> sample=SAW-PHS-LOW-38-95-CGMU.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=383776 loop_end=609057
+<region> sample=SAW-PHS-LOW-38-111-47TS.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=115511 loop_end=606454
+<region> sample=SAW-PHS-LOW-38-127-KQAJ.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=122716 loop_end=241954
+<region> sample=SAW-PHS-LOW-44-16-S7JE.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=312262 loop_end=444355
+<region> sample=SAW-PHS-LOW-44-32-G4YY.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=331066 loop_end=601413
+<region> sample=SAW-PHS-LOW-44-48-92NR.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=173352 loop_end=592149
+<region> sample=SAW-PHS-LOW-44-64-P378.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=217651 loop_end=608828
+<region> sample=SAW-PHS-LOW-44-79-6WHR.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=234670 loop_end=595117
+<region> sample=SAW-PHS-LOW-44-95-ZML9.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=132460 loop_end=596315
+<region> sample=SAW-PHS-LOW-44-111-8L34.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=449469 loop_end=580526
+<region> sample=SAW-PHS-LOW-44-127-GARP.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=194466 loop_end=596915
+<region> sample=SAW-PHS-LOW-50-16-OB3F.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=204779 loop_end=551632
+<region> sample=SAW-PHS-LOW-50-32-X85K.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=353844 loop_end=597269
+<region> sample=SAW-PHS-LOW-50-48-S1Q0.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=204023 loop_end=309781
+<region> sample=SAW-PHS-LOW-50-64-H7QE.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=200345 loop_end=343699
+<region> sample=SAW-PHS-LOW-50-79-R3ZZ.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=159801 loop_end=297304
+<region> sample=SAW-PHS-LOW-50-95-A53W.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=261150 loop_end=404505
+<region> sample=SAW-PHS-LOW-50-111-RDNV.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=416104 loop_end=539557
+<region> sample=SAW-PHS-LOW-50-127-1GYV.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=148827 loop_end=609918
+<region> sample=SAW-PHS-LOW-56-16-TQHT.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=268851 loop_end=374284
+<region> sample=SAW-PHS-LOW-56-32-K1GK.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=107155 loop_end=571291
+<region> sample=SAW-PHS-LOW-56-48-8IBR.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=415339 loop_end=538551
+<region> sample=SAW-PHS-LOW-56-64-I6FS.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=466508 loop_end=609964
+<region> sample=SAW-PHS-LOW-56-79-MBLH.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=173985 loop_end=611998
+<region> sample=SAW-PHS-LOW-56-95-9IJR.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=402577 loop_end=602763
+<region> sample=SAW-PHS-LOW-56-111-67M8.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=178710 loop_end=501775
+<region> sample=SAW-PHS-LOW-56-127-M78L.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=259013 loop_end=460182
+<region> sample=SAW-PHS-LOW-62-16-SZMB.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=121532 loop_end=228473
+<region> sample=SAW-PHS-LOW-62-32-BELJ.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=320620 loop_end=583742
+<region> sample=SAW-PHS-LOW-62-48-K2PQ.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=476196 loop_end=581263
+<region> sample=SAW-PHS-LOW-62-64-4I2Y.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=347077 loop_end=453673
+<region> sample=SAW-PHS-LOW-62-79-Q8LC.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=227590 loop_end=348422
+<region> sample=SAW-PHS-LOW-62-95-AIAC.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=129750 loop_end=320108
+<region> sample=SAW-PHS-LOW-62-111-RSZF.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=180841 loop_end=297331
+<region> sample=SAW-PHS-LOW-62-127-A0NM.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=261579 loop_end=602619
+<region> sample=SAW-PHS-LOW-68-16-B3WU.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=289741 loop_end=610988
+<region> sample=SAW-PHS-LOW-68-32-2NCC.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=355678 loop_end=609506
+<region> sample=SAW-PHS-LOW-68-48-6KQQ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=388151 loop_end=501351
+<region> sample=SAW-PHS-LOW-68-64-232G.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=151108 loop_end=257324
+<region> sample=SAW-PHS-LOW-68-79-4S8H.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=102350 loop_end=603109
+<region> sample=SAW-PHS-LOW-68-95-SM27.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=393427 loop_end=498363
+<region> sample=SAW-PHS-LOW-68-111-Y8LB.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=115406 loop_end=253822
+<region> sample=SAW-PHS-LOW-68-127-JJ6H.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=120573 loop_end=250476
+<region> sample=SAW-PHS-LOW-72-16-DPTN.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=271571 loop_end=599288
+<region> sample=SAW-PHS-LOW-72-32-86G9.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=481282 loop_end=591439
+<region> sample=SAW-PHS-LOW-72-48-JJVV.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=325491 loop_end=448900
+<region> sample=SAW-PHS-LOW-72-64-7V8I.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=119820 loop_end=224502
+<region> sample=SAW-PHS-LOW-72-79-A98L.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=143948 loop_end=268450
+<region> sample=SAW-PHS-LOW-72-95-1ACI.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=123620 loop_end=595355
+<region> sample=SAW-PHS-LOW-72-111-YZ3B.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=147437 loop_end=332154
+<region> sample=SAW-PHS-LOW-72-127-HB05.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=470298 loop_end=577344

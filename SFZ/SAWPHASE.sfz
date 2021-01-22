@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAWPHASE.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SAWPHASE/(201639 93654)/
+
+<group>        // SAWPHASE
+<region> sample=SAWPHASE-38-16-WGXM.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=113718 loop_end=596021
+<region> sample=SAWPHASE-38-32-N9NM.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=433235 loop_end=562835
+<region> sample=SAWPHASE-38-48-X2OV.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=255623 loop_end=439367
+<region> sample=SAWPHASE-38-64-N25E.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=120350 loop_end=557599
+<region> sample=SAWPHASE-38-79-6T2B.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=161547 loop_end=598795
+<region> sample=SAWPHASE-38-95-R7H4.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=361134 loop_end=584813
+<region> sample=SAWPHASE-38-111-0A0C.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=122758 loop_end=605058
+<region> sample=SAWPHASE-38-127-ZO9G.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=204288 loop_end=442879
+<region> sample=SAWPHASE-44-16-1QOA.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=250997 loop_end=540789
+<region> sample=SAWPHASE-44-32-A5Z9.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=161569 loop_end=561952
+<region> sample=SAWPHASE-44-48-0ZG8.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=101452 loop_end=431162
+<region> sample=SAWPHASE-44-64-50WP.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=106456 loop_end=309224
+<region> sample=SAWPHASE-44-79-C78C.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=116332 loop_end=610910
+<region> sample=SAWPHASE-44-95-DQKO.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=288663 loop_end=547735
+<region> sample=SAWPHASE-44-111-N5PE.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=326556 loop_end=543643
+<region> sample=SAWPHASE-44-127-FKHZ.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=479001 loop_end=612124
+<region> sample=SAWPHASE-50-16-QW1N.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=330087 loop_end=554340
+<region> sample=SAWPHASE-50-32-MA8O.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=364459 loop_end=605549
+<region> sample=SAWPHASE-50-48-266V.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=238126 loop_end=559949
+<region> sample=SAWPHASE-50-64-6FLR.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=154789 loop_end=539370
+<region> sample=SAWPHASE-50-79-03YS.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=100971 loop_end=280906
+<region> sample=SAWPHASE-50-95-4Z6A.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=126809 loop_end=300308
+<region> sample=SAWPHASE-50-111-RPQD.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=309867 loop_end=448842
+<region> sample=SAWPHASE-50-127-7Q74.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=484189 loop_end=600346
+<region> sample=SAWPHASE-56-16-2U03.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=210933 loop_end=351739
+<region> sample=SAWPHASE-56-32-XFUI.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=309741 loop_end=609779
+<region> sample=SAWPHASE-56-48-ZZ39.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=202394 loop_end=311458
+<region> sample=SAWPHASE-56-64-S1YI.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=188149 loop_end=326938
+<region> sample=SAWPHASE-56-79-X7A5.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=398009 loop_end=534194
+<region> sample=SAWPHASE-56-95-TCD8.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=291804 loop_end=599493
+<region> sample=SAWPHASE-56-111-OR4L.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=276972 loop_end=418300
+<region> sample=SAWPHASE-56-127-H835.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=157554 loop_end=291194
+<region> sample=SAWPHASE-62-16-3DF8.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=289475 loop_end=430864
+<region> sample=SAWPHASE-62-32-RJCW.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=250647 loop_end=420050
+<region> sample=SAWPHASE-62-48-678Z.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=273481 loop_end=377477
+<region> sample=SAWPHASE-62-64-YJYX.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=353629 loop_end=478207
+<region> sample=SAWPHASE-62-79-YZ2E.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=480955 loop_end=593003
+<region> sample=SAWPHASE-62-95-RKG3.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=377678 loop_end=607427
+<region> sample=SAWPHASE-62-111-WAF8.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=424119 loop_end=544209
+<region> sample=SAWPHASE-62-127-EQB4.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=276666 loop_end=612540
+<region> sample=SAWPHASE-68-16-TD5Q.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=99301 loop_end=221892
+<region> sample=SAWPHASE-68-32-VJ16.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=277228 loop_end=403197
+<region> sample=SAWPHASE-68-48-BF77.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=230673 loop_end=553460
+<region> sample=SAWPHASE-68-64-FFTA.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=444405 loop_end=549886
+<region> sample=SAWPHASE-68-79-8WWR.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=98820 loop_end=319492
+<region> sample=SAWPHASE-68-95-5EGW.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=184615 loop_end=313947
+<region> sample=SAWPHASE-68-111-KB7N.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=110157 loop_end=226002
+<region> sample=SAWPHASE-68-127-J30K.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=132105 loop_end=610318
+<region> sample=SAWPHASE-72-16-1BI6.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=133500 loop_end=560834
+<region> sample=SAWPHASE-72-32-TNPZ.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=95361 loop_end=250211
+<region> sample=SAWPHASE-72-48-QWJT.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=381625 loop_end=487755
+<region> sample=SAWPHASE-72-64-W6UW.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=397108 loop_end=522877
+<region> sample=SAWPHASE-72-79-KK8V.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=209061 loop_end=357643
+<region> sample=SAWPHASE-72-95-XTO0.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=292016 loop_end=576693
+<region> sample=SAWPHASE-72-111-W0AY.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=142626 loop_end=567567
+<region> sample=SAWPHASE-72-127-1P0P.wav key=72 amp_veltrack=0  lokey=69 hikey=125 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=353132 loop_end=467951

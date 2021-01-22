@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sat SQR LP4P.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Sat SQR LP4P/(2016327 10482)/
+
+<group>        // Sat SQR LP4P
+<region> sample=kettle-29-16-F08V.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=32560 loop_end=114727
+<region> sample=kettle-29-32-AF81.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=32547 loop_end=114716
+<region> sample=kettle-29-48-JTI3.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=31770 loop_end=113936
+<region> sample=kettle-29-64-VPU0.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=32132 loop_end=115369
+<region> sample=kettle-29-79-L451.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=124644 loop_end=403171
+<region> sample=kettle-29-95-0JZC.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=110042 loop_end=313867
+<region> sample=kettle-29-111-45YP.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=130670 loop_end=409207
+<region> sample=kettle-29-127-G7ZT.wav key=28 amp_veltrack=0  lokey=3 hikey=29 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=107518 loop_end=386056
+<region> sample=kettle-41-16-0BN3.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=30976 loop_end=114764
+<region> sample=kettle-41-32-CR9A.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=32543 loop_end=115262
+<region> sample=kettle-41-48-KU4E.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=235097 loop_end=437357
+<region> sample=kettle-41-64-GX0J.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=162224 loop_end=389570
+<region> sample=kettle-41-79-6E97.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=115258 loop_end=406645
+<region> sample=kettle-41-95-A9VT.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=171427 loop_end=322990
+<region> sample=kettle-41-111-3FGI.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=243956 loop_end=407800
+<region> sample=kettle-41-127-F071.wav key=40 amp_veltrack=0  lokey=30 hikey=41 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=261622 loop_end=426534
+<region> sample=kettle-53-16-EVA5.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=32411 loop_end=115673
+<region> sample=kettle-53-32-BONR.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=272545 loop_end=424388
+<region> sample=kettle-53-48-DW3O.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=209366 loop_end=435927
+<region> sample=kettle-53-64-VM3P.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=296220 loop_end=416038
+<region> sample=kettle-53-79-63XX.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=277441 loop_end=429817
+<region> sample=kettle-53-95-YE0A.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=79706 loop_end=441835
+<region> sample=kettle-53-111-7BPX.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=65095 loop_end=157699
+<region> sample=kettle-53-127-W5AA.wav key=52 amp_veltrack=0  lokey=42 hikey=53 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=43925 loop_end=131991
+<region> sample=kettle-65-16-4S3L.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=30909 loop_end=115620
+<region> sample=kettle-65-32-VFR3.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=188989 loop_end=425377
+<region> sample=kettle-65-48-BQIU.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=197606 loop_end=415449
+<region> sample=kettle-65-64-NEM2.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=206200 loop_end=430849
+<region> sample=kettle-65-79-C1UX.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=56273 loop_end=443276
+<region> sample=kettle-65-95-Z8GY.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=296064 loop_end=401988
+<region> sample=kettle-65-111-AV24.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=101799 loop_end=195851
+<region> sample=kettle-65-127-APGV.wav key=64 amp_veltrack=0  lokey=54 hikey=65 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=65598 loop_end=159649
+<region> sample=kettle-77-16-QI2Z.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=31381 loop_end=114660
+<region> sample=kettle-77-32-4AY3.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=198514 loop_end=423391
+<region> sample=kettle-77-48-DQB1.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=233792 loop_end=391071
+<region> sample=kettle-77-64-6AKY.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=236645 loop_end=355423
+<region> sample=kettle-77-79-4XDE.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=96210 loop_end=198239
+<region> sample=kettle-77-95-69K9.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=242810 loop_end=436932
+<region> sample=kettle-77-111-LCQI.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=299305 loop_end=388925
+<region> sample=kettle-77-127-KHVA.wav key=76 amp_veltrack=0  lokey=66 hikey=77 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=253741 loop_end=440121
+<region> sample=kettle-89-16-RFLR.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=30736 loop_end=114649
+<region> sample=kettle-89-32-TUE4.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=96144 loop_end=425858
+<region> sample=kettle-89-48-DH5H.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=292742 loop_end=380990
+<region> sample=kettle-89-64-D614.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=232634 loop_end=436847
+<region> sample=kettle-89-79-A8GB.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=200802 loop_end=390976
+<region> sample=kettle-89-95-GH1K.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=129876 loop_end=213058
+<region> sample=kettle-89-111-68IV.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=270401 loop_end=370826
+<region> sample=kettle-89-127-EOWQ.wav key=88 amp_veltrack=0  lokey=78 hikey=89 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=251502 loop_end=350158
+<region> sample=kettle-96-16-4WG4.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=1 hivel=16 tune=-4 loop_mode=loop_continuous loop_start=32037 loop_end=113697
+<region> sample=kettle-96-32-1LBF.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=17 hivel=32 tune=-4 loop_mode=loop_continuous loop_start=31392 loop_end=113720
+<region> sample=kettle-96-48-2I71.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=33 hivel=48 tune=-4 loop_mode=loop_continuous loop_start=45806 loop_end=140985
+<region> sample=kettle-96-64-ZOPE.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=49 hivel=64 tune=-4 loop_mode=loop_continuous loop_start=198898 loop_end=428109
+<region> sample=kettle-96-79-OQK1.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=65 hivel=79 tune=-4 loop_mode=loop_continuous loop_start=287623 loop_end=374442
+<region> sample=kettle-96-95-16LX.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=80 hivel=95 tune=-4 loop_mode=loop_continuous loop_start=303779 loop_end=402499
+<region> sample=kettle-96-111-WF4T.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=96 hivel=111 tune=-4 loop_mode=loop_continuous loop_start=164664 loop_end=259027
+<region> sample=kettle-96-127-EIKJ.wav key=100 amp_veltrack=0  lokey=90 hikey=127 lovel=112 hivel=127 tune=-4 loop_mode=loop_continuous loop_start=104942 loop_end=191811

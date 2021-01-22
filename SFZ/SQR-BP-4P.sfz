@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-BP-4P.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SQR-BP-4P/(201639 74241)/
+
+<group>        // SQR-BP-4P
+<region> sample=SQR-BP-4P-38-16-92UA.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=93780 loop_end=198178
+<region> sample=SQR-BP-4P-38-32-0UIN.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=93543 loop_end=198079
+<region> sample=SQR-BP-4P-38-48-CMSL.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93981 loop_end=198338
+<region> sample=SQR-BP-4P-38-64-EK9I.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93840 loop_end=598674
+<region> sample=SQR-BP-4P-38-79-7NU6.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=237526 loop_end=577494
+<region> sample=SQR-BP-4P-38-95-LK4B.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=253328 loop_end=356305
+<region> sample=SQR-BP-4P-38-111-NMRW.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=414532 loop_end=563011
+<region> sample=SQR-BP-4P-38-127-RQ0D.wav key=36 amp_veltrack=0  lokey=0 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=103607 loop_end=446648
+<region> sample=SQR-BP-4P-44-16-C93Y.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=104072 loop_end=207928
+<region> sample=SQR-BP-4P-44-32-NVUX.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=93567 loop_end=197552
+<region> sample=SQR-BP-4P-44-48-G2MM.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93037 loop_end=198062
+<region> sample=SQR-BP-4P-44-64-V4XG.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=135469 loop_end=272687
+<region> sample=SQR-BP-4P-44-79-TCB1.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=167799 loop_end=310136
+<region> sample=SQR-BP-4P-44-95-9AVK.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=176685 loop_end=510510
+<region> sample=SQR-BP-4P-44-111-OXIY.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=259958 loop_end=405338
+<region> sample=SQR-BP-4P-44-127-GH9A.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=254887 loop_end=590735
+<region> sample=SQR-BP-4P-50-16-SOGS.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=214278 loop_end=327484
+<region> sample=SQR-BP-4P-50-32-C3LL.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=389738 loop_end=572007
+<region> sample=SQR-BP-4P-50-48-DITW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=267742 loop_end=604927
+<region> sample=SQR-BP-4P-50-64-80QC.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=229923 loop_end=345350
+<region> sample=SQR-BP-4P-50-79-UKL6.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=278674 loop_end=429936
+<region> sample=SQR-BP-4P-50-95-TY22.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=281068 loop_end=464071
+<region> sample=SQR-BP-4P-50-111-R7SY.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=193298 loop_end=611532
+<region> sample=SQR-BP-4P-50-127-2BA4.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=182539 loop_end=608047
+<region> sample=SQR-BP-4P-56-16-XU6Y.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=432277 loop_end=540328
+<region> sample=SQR-BP-4P-56-32-RA2V.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=170017 loop_end=609270
+<region> sample=SQR-BP-4P-56-48-TYON.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=374021 loop_end=522020
+<region> sample=SQR-BP-4P-56-64-WO0W.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=252865 loop_end=390066
+<region> sample=SQR-BP-4P-56-79-AMXT.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=127854 loop_end=544129
+<region> sample=SQR-BP-4P-56-95-Q6DJ.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=369233 loop_end=473668
+<region> sample=SQR-BP-4P-56-111-7UU9.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=146796 loop_end=604967
+<region> sample=SQR-BP-4P-56-127-9NJ1.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=216100 loop_end=602830
+<region> sample=SQR-BP-4P-62-16-VAQO.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=225968 loop_end=570766
+<region> sample=SQR-BP-4P-62-32-TOUH.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=421612 loop_end=581048
+<region> sample=SQR-BP-4P-62-48-TH5E.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=358101 loop_end=469055
+<region> sample=SQR-BP-4P-62-64-9RLK.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=269215 loop_end=608335
+<region> sample=SQR-BP-4P-62-79-2EVP.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=277941 loop_end=405019
+<region> sample=SQR-BP-4P-62-95-SLCG.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=170585 loop_end=582171
+<region> sample=SQR-BP-4P-62-111-LLX9.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=190816 loop_end=575985
+<region> sample=SQR-BP-4P-62-127-PR6E.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=442926 loop_end=569670
+<region> sample=SQR-BP-4P-68-16-JSW9.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=351485 loop_end=480537
+<region> sample=SQR-BP-4P-68-32-45X8.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=242110 loop_end=607707
+<region> sample=SQR-BP-4P-68-48-ZBJF.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=94017 loop_end=197079
+<region> sample=SQR-BP-4P-68-64-8SFJ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=92718 loop_end=198166
+<region> sample=SQR-BP-4P-68-79-KGUR.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=288761 loop_end=612739
+<region> sample=SQR-BP-4P-68-95-A35Y.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=244013 loop_end=372786
+<region> sample=SQR-BP-4P-68-111-MX1J.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=103342 loop_end=611781
+<region> sample=SQR-BP-4P-68-127-9D79.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=358214 loop_end=516614
+<region> sample=SQR-BP-4P-72-16-DTRE.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=221346 loop_end=360338
+<region> sample=SQR-BP-4P-72-32-PEYY.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=252067 loop_end=409626
+<region> sample=SQR-BP-4P-72-48-24A3.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=132093 loop_end=236174
+<region> sample=SQR-BP-4P-72-64-9TLW.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=402869 loop_end=513016
+<region> sample=SQR-BP-4P-72-79-C3CG.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=204787 loop_end=316607
+<region> sample=SQR-BP-4P-72-95-IPW6.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=174344 loop_end=298299
+<region> sample=SQR-BP-4P-72-111-8K67.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=173631 loop_end=281397
+<region> sample=SQR-BP-4P-72-127-21SR.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=113540 loop_end=601664

@@ -1,0 +1,35 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TRI-BP-3P.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio//TRI-BP-3P/(201639 7244)/
+
+<group>        // TRI-BP-3P
+<region> sample=TRI-BP-3P-38-32-VFRG.wav key=36 lokey=0 hikey=38 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=93485 loop_end=197989
+<region> sample=TRI-BP-3P-38-64-MHTC.wav key=36 lokey=0 hikey=38 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=282579 loop_end=611284
+<region> sample=TRI-BP-3P-38-95-PD7O.wav key=36 lokey=0 hikey=38 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=288616 loop_end=416619
+<region> sample=TRI-BP-3P-38-127-B7BD.wav key=36 lokey=0 hikey=38 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=315899 loop_end=483859
+<region> sample=TRI-BP-3P-44-32-0VDM.wav key=42 lokey=39 hikey=44 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=93232 loop_end=197324
+<region> sample=TRI-BP-3P-44-64-8T6F.wav key=42 lokey=39 hikey=44 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=453514 loop_end=580470
+<region> sample=TRI-BP-3P-44-95-RBP4.wav key=42 lokey=39 hikey=44 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=366903 loop_end=501058
+<region> sample=TRI-BP-3P-44-127-6QW4.wav key=42 lokey=39 hikey=44 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=448570 loop_end=573509
+<region> sample=TRI-BP-3P-50-32-I8X0.wav key=48 lokey=45 hikey=50 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=93343 loop_end=198459
+<region> sample=TRI-BP-3P-50-64-5FLU.wav key=48 lokey=45 hikey=50 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=221018 loop_end=594778
+<region> sample=TRI-BP-3P-50-95-IU4J.wav key=48 lokey=45 hikey=50 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=427582 loop_end=546046
+<region> sample=TRI-BP-3P-50-127-ZONT.wav key=48 lokey=45 hikey=50 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=364025 loop_end=611206
+<region> sample=TRI-BP-3P-56-32-EZLC.wav key=54 lokey=51 hikey=56 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=93701 loop_end=198753
+<region> sample=TRI-BP-3P-56-64-F0E6.wav key=54 lokey=51 hikey=56 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=92605 loop_end=197209
+<region> sample=TRI-BP-3P-56-95-Y2LS.wav key=54 lokey=51 hikey=56 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=428690 loop_end=536814
+<region> sample=TRI-BP-3P-56-127-9LVU.wav key=54 lokey=51 hikey=56 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=181485 loop_end=292813
+<region> sample=TRI-BP-3P-62-32-D5VF.wav key=60 lokey=57 hikey=62 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=192309 loop_end=310722
+<region> sample=TRI-BP-3P-62-64-EYST.wav key=60 lokey=57 hikey=62 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=298579 loop_end=411495
+<region> sample=TRI-BP-3P-62-95-BXES.wav key=60 lokey=57 hikey=62 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=174387 loop_end=278073
+<region> sample=TRI-BP-3P-62-127-UE0C.wav key=60 lokey=57 hikey=62 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=130601 loop_end=258627
+<region> sample=TRI-BP-3P-68-32-8C7I.wav key=66 lokey=63 hikey=68 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=130635 loop_end=610892
+<region> sample=TRI-BP-3P-68-64-9PCP.wav key=66 lokey=63 hikey=68 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=370160 loop_end=505580
+<region> sample=TRI-BP-3P-68-95-JMYT.wav key=66 lokey=63 hikey=68 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=470458 loop_end=612635
+<region> sample=TRI-BP-3P-68-127-43ED.wav key=66 lokey=63 hikey=68 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=93673 loop_end=229880
+<region> sample=TRI-BP-3P-72-32-8GO3.wav key=72 lokey=69 hikey=127 lovel=1 hivel=32 loop_mode=loop_continuous loop_start=198181 loop_end=340262
+<region> sample=TRI-BP-3P-72-64-IWY9.wav key=72 lokey=69 hikey=127 lovel=33 hivel=64 loop_mode=loop_continuous loop_start=425310 loop_end=550138
+<region> sample=TRI-BP-3P-72-95-3OFM.wav key=72 lokey=69 hikey=127 lovel=65 hivel=95 loop_mode=loop_continuous loop_start=213627 loop_end=344838
+<region> sample=TRI-BP-3P-72-127-WAT1.wav key=72 lokey=69 hikey=127 lovel=96 hivel=127 loop_mode=loop_continuous loop_start=174410 loop_end=282458

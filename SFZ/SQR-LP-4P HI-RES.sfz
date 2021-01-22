@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-LP-4P HI-RES.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SQR-LP-4P HI-RES/(201639 53720)/
+
+<group>        // SQR-LP-4P HI-RES
+<region> sample=SQR-LP-4P HI-RES-38-16-CKI9.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=93249 loop_end=198969
+<region> sample=SQR-LP-4P HI-RES-38-32-ZIP8.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=92662 loop_end=198535
+<region> sample=SQR-LP-4P HI-RES-38-48-Q0FW.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93186 loop_end=198878
+<region> sample=SQR-LP-4P HI-RES-38-64-DNCT.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=92787 loop_end=198581
+<region> sample=SQR-LP-4P HI-RES-38-79-38T2.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=93432 loop_end=197753
+<region> sample=SQR-LP-4P HI-RES-38-95-INFI.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=433998 loop_end=589647
+<region> sample=SQR-LP-4P HI-RES-38-#A5D931.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=124267 loop_end=599982
+<region> sample=SQR-LP-4P HI-RES-38-127-AEOP.wav key=36 amp_veltrack=0  lokey=2 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=397642 loop_end=591755
+<region> sample=SQR-LP-4P HI-RES-44-16-JIPY.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=103042 loop_end=208842
+<region> sample=SQR-LP-4P HI-RES-44-32-3S16.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=94164 loop_end=199032
+<region> sample=SQR-LP-4P HI-RES-44-48-SEU1.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92663 loop_end=198558
+<region> sample=SQR-LP-4P HI-RES-44-64-DKW5.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=92712 loop_end=198562
+<region> sample=SQR-LP-4P HI-RES-44-79-RRP9.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=93337 loop_end=198127
+<region> sample=SQR-LP-4P HI-RES-44-95-SPWW.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=98323 loop_end=242723
+<region> sample=SQR-LP-4P HI-RES-44-#A5D93A.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=242600 loop_end=560029
+<region> sample=SQR-LP-4P HI-RES-44-#A5D93B.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=331711 loop_end=553920
+<region> sample=SQR-LP-4P HI-RES-50-16-ADMK.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=94288 loop_end=197783
+<region> sample=SQR-LP-4P HI-RES-50-32-UG3D.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=344627 loop_end=601419
+<region> sample=SQR-LP-4P HI-RES-50-48-7AVX.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93778 loop_end=197227
+<region> sample=SQR-LP-4P HI-RES-50-64-Q9P5.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=94591 loop_end=198124
+<region> sample=SQR-LP-4P HI-RES-50-79-5V9T.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=93040 loop_end=197928
+<region> sample=SQR-LP-4P HI-RES-50-95-18QT.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=391452 loop_end=516965
+<region> sample=SQR-LP-4P HI-RES-50-#A5D942.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=361276 loop_end=487522
+<region> sample=SQR-LP-4P HI-RES-50-#A5D943.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=144331 loop_end=277158
+<region> sample=SQR-LP-4P HI-RES-56-16-IBIK.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=117633 loop_end=559121
+<region> sample=SQR-LP-4P HI-RES-56-32-DZOL.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=248614 loop_end=378925
+<region> sample=SQR-LP-4P HI-RES-56-48-7OSR.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=93985 loop_end=197730
+<region> sample=SQR-LP-4P HI-RES-56-64-F54B.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93926 loop_end=198777
+<region> sample=SQR-LP-4P HI-RES-56-79-E32H.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=92749 loop_end=197062
+<region> sample=SQR-LP-4P HI-RES-56-95-0EET.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=375108 loop_end=570713
+<region> sample=SQR-LP-4P HI-RES-56-#A5D94A.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=252724 loop_end=603460
+<region> sample=SQR-LP-4P HI-RES-56-#A5D94B.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=142912 loop_end=252996
+<region> sample=SQR-LP-4P HI-RES-62-16-ULAV.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=326126 loop_end=449009
+<region> sample=SQR-LP-4P HI-RES-62-32-1FE2.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=206592 loop_end=319234
+<region> sample=SQR-LP-4P HI-RES-62-48-HF14.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=400140 loop_end=506544
+<region> sample=SQR-LP-4P HI-RES-62-64-VFVR.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=288828 loop_end=579742
+<region> sample=SQR-LP-4P HI-RES-62-79-QHWB.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=94150 loop_end=198712
+<region> sample=SQR-LP-4P HI-RES-62-95-AILB.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=130483 loop_end=253082
+<region> sample=SQR-LP-4P HI-RES-62-#A5D952.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=278164 loop_end=384909
+<region> sample=SQR-LP-4P HI-RES-62-#A5D953.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=257612 loop_end=383494
+<region> sample=SQR-LP-4P HI-RES-68-16-BKUH.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=360962 loop_end=486485
+<region> sample=SQR-LP-4P HI-RES-68-32-8Q9H.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=392438 loop_end=501101
+<region> sample=SQR-LP-4P HI-RES-68-48-3TR9.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=434088 loop_end=585269
+<region> sample=SQR-LP-4P HI-RES-68-64-I5HS.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=425620 loop_end=550111
+<region> sample=SQR-LP-4P HI-RES-68-79-VMAJ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=92769 loop_end=198570
+<region> sample=SQR-LP-4P HI-RES-68-95-SEX4.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=372279 loop_end=481476
+<region> sample=SQR-LP-4P HI-RES-68-#A5D95A.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=276826 loop_end=383170
+<region> sample=SQR-LP-4P HI-RES-68-#A5D95B.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=318056 loop_end=425694
+<region> sample=SQR-LP-4P HI-RES-72-16-9Z1Z.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=185965 loop_end=307553
+<region> sample=SQR-LP-4P HI-RES-72-32-73WJ.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=362950 loop_end=573309
+<region> sample=SQR-LP-4P HI-RES-72-48-EBX3.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=288780 loop_end=555798
+<region> sample=SQR-LP-4P HI-RES-72-64-YJ1S.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=423675 loop_end=609633
+<region> sample=SQR-LP-4P HI-RES-72-79-X9WN.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=93982 loop_end=197788
+<region> sample=SQR-LP-4P HI-RES-72-95-KWDK.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=251134 loop_end=608443
+<region> sample=SQR-LP-4P HI-RES-72-#A5D962.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=365720 loop_end=500720
+<region> sample=SQR-LP-4P HI-RES-72-#A5D963.wav key=72 amp_veltrack=0  lokey=69 hikey=124 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=294698 loop_end=419615

@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-HILOWI-RES.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SQR-HILOWI-RES/(201639 121645)/
+
+<group>        // SQR-HILOWI-RES
+<region> sample=SQR-HILOWI-RES-38-16-9RU1.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=93015 loop_end=198902
+<region> sample=SQR-HILOWI-RES-38-32-A2DK.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=93658 loop_end=198232
+<region> sample=SQR-HILOWI-RES-38-48-QGNZ.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92831 loop_end=198675
+<region> sample=SQR-HILOWI-RES-38-64-G6DO.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=112161 loop_end=502304
+<region> sample=SQR-HILOWI-RES-38-79-0OCM.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=198158 loop_end=611849
+<region> sample=SQR-HILOWI-RES-38-95-7N5S.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=262963 loop_end=555828
+<region> sample=SQR-HILOWI-RES-38-111-WRPK.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=465624 loop_end=581778
+<region> sample=SQR-HILOWI-RES-38-127-Q43B.wav key=36 amp_veltrack=0  lokey=3 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=181445 loop_end=334598
+<region> sample=SQR-HILOWI-RES-44-16-GNQO.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=92722 loop_end=198686
+<region> sample=SQR-HILOWI-RES-44-32-CPR4.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=92950 loop_end=197991
+<region> sample=SQR-HILOWI-RES-44-48-E63V.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92764 loop_end=198859
+<region> sample=SQR-HILOWI-RES-44-64-CL2E.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93758 loop_end=198796
+<region> sample=SQR-HILOWI-RES-44-79-ZUUB.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=227231 loop_end=366485
+<region> sample=SQR-HILOWI-RES-44-95-S4CN.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=437369 loop_end=567417
+<region> sample=SQR-HILOWI-RES-44-111-G1OF.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=104332 loop_end=609152
+<region> sample=SQR-HILOWI-RES-44-127-1CMZ.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=333701 loop_end=598909
+<region> sample=SQR-HILOWI-RES-50-16-ZQ2A.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=438831 loop_end=547653
+<region> sample=SQR-HILOWI-RES-50-32-SBWW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=273753 loop_end=530332
+<region> sample=SQR-HILOWI-RES-50-48-5LWR.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=151174 loop_end=609633
+<region> sample=SQR-HILOWI-RES-50-64-QVAT.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=345087 loop_end=581916
+<region> sample=SQR-HILOWI-RES-50-79-321N.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=104519 loop_end=579656
+<region> sample=SQR-HILOWI-RES-50-95-H2LH.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=475958 loop_end=591382
+<region> sample=SQR-HILOWI-RES-50-111-X6CW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=302626 loop_end=579086
+<region> sample=SQR-HILOWI-RES-50-127-E7QY.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=302103 loop_end=598354
+<region> sample=SQR-HILOWI-RES-56-16-ACDP.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=92697 loop_end=198695
+<region> sample=SQR-HILOWI-RES-56-32-9Z2E.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=93530 loop_end=197533
+<region> sample=SQR-HILOWI-RES-56-48-JZYG.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=194267 loop_end=320474
+<region> sample=SQR-HILOWI-RES-56-64-XHBN.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=138574 loop_end=244099
+<region> sample=SQR-HILOWI-RES-56-79-8RO7.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=92756 loop_end=198804
+<region> sample=SQR-HILOWI-RES-56-95-Y3TH.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=296824 loop_end=535933
+<region> sample=SQR-HILOWI-RES-56-111-LDBG.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=385450 loop_end=524170
+<region> sample=SQR-HILOWI-RES-56-127-4F8P.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=152768 loop_end=513614
+<region> sample=SQR-HILOWI-RES-62-16-XKXT.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=182157 loop_end=612210
+<region> sample=SQR-HILOWI-RES-62-32-70LF.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=198842 loop_end=601905
+<region> sample=SQR-HILOWI-RES-62-48-OTYO.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=254938 loop_end=362607
+<region> sample=SQR-HILOWI-RES-62-64-GZ8M.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=104194 loop_end=267366
+<region> sample=SQR-HILOWI-RES-62-79-UA8Y.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=418018 loop_end=548425
+<region> sample=SQR-HILOWI-RES-62-95-TC2E.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=151137 loop_end=447423
+<region> sample=SQR-HILOWI-RES-62-111-BDLT.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=132567 loop_end=255963
+<region> sample=SQR-HILOWI-RES-62-127-H3Z7.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=204092 loop_end=322041
+<region> sample=SQR-HILOWI-RES-68-16-1EDK.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=201139 loop_end=349961
+<region> sample=SQR-HILOWI-RES-68-32-FR84.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=152832 loop_end=263213
+<region> sample=SQR-HILOWI-RES-68-48-J4HS.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=320844 loop_end=596864
+<region> sample=SQR-HILOWI-RES-68-64-MF4M.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=93819 loop_end=197474
+<region> sample=SQR-HILOWI-RES-68-79-GG68.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=253416 loop_end=380377
+<region> sample=SQR-HILOWI-RES-68-95-N2OQ.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=140114 loop_end=603171
+<region> sample=SQR-HILOWI-RES-68-111-JZ0O.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=177700 loop_end=609871
+<region> sample=SQR-HILOWI-RES-68-127-ETKD.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=111959 loop_end=216370
+<region> sample=SQR-HILOWI-RES-72-16-BKOF.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=265159 loop_end=378635
+<region> sample=SQR-HILOWI-RES-72-32-X4LZ.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=297270 loop_end=553516
+<region> sample=SQR-HILOWI-RES-72-48-O3FF.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=220107 loop_end=611187
+<region> sample=SQR-HILOWI-RES-72-64-9PVD.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=301386 loop_end=422192
+<region> sample=SQR-HILOWI-RES-72-79-QCVW.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=409728 loop_end=612132
+<region> sample=SQR-HILOWI-RES-72-95-SZE1.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=478371 loop_end=588755
+<region> sample=SQR-HILOWI-RES-72-111-ZTAJ.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=428085 loop_end=550755
+<region> sample=SQR-HILOWI-RES-72-127-M6IO.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=137884 loop_end=556712

@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-HILOWRES.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SAW-HILOWRES/(201639 12131)/
+
+<group>        // SAW-HILOWRES
+<region> sample=SAW-HILOWRES-38-16-4HYH.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=273022 loop_end=545407
+<region> sample=SAW-HILOWRES-38-32-HSMA.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=376409 loop_end=494160
+<region> sample=SAW-HILOWRES-38-48-AVUQ.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=450812 loop_end=587582
+<region> sample=SAW-HILOWRES-38-64-YHML.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=314455 loop_end=600151
+<region> sample=SAW-HILOWRES-38-79-4MZE.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=406789 loop_end=589059
+<region> sample=SAW-HILOWRES-38-95-PION.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=95426 loop_end=211721
+<region> sample=SAW-HILOWRES-38-111-FJD3.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=151962 loop_end=271197
+<region> sample=SAW-HILOWRES-38-127-T5IO.wav key=36 amp_veltrack=0  lokey=1 hikey=38 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=260950 loop_end=564061
+<region> sample=SAW-HILOWRES-44-16-F5Q2.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=133843 loop_end=273107
+<region> sample=SAW-HILOWRES-44-32-2ZWN.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=302826 loop_end=497386
+<region> sample=SAW-HILOWRES-44-48-CEUP.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=92729 loop_end=596552
+<region> sample=SAW-HILOWRES-44-64-7DI6.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=154776 loop_end=551064
+<region> sample=SAW-HILOWRES-44-79-O75T.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=168280 loop_end=299336
+<region> sample=SAW-HILOWRES-44-95-AT68.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=121868 loop_end=591884
+<region> sample=SAW-HILOWRES-44-111-6PHT.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=370363 loop_end=512713
+<region> sample=SAW-HILOWRES-44-127-M1MG.wav key=42 amp_veltrack=0  lokey=39 hikey=44 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=257449 loop_end=388539
+<region> sample=SAW-HILOWRES-50-16-JY70.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=119704 loop_end=608885
+<region> sample=SAW-HILOWRES-50-32-AXXR.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=138129 loop_end=563091
+<region> sample=SAW-HILOWRES-50-48-T1OU.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=191936 loop_end=411807
+<region> sample=SAW-HILOWRES-50-64-A8QN.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=497486 loop_end=612172
+<region> sample=SAW-HILOWRES-50-79-43FM.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=224108 loop_end=603278
+<region> sample=SAW-HILOWRES-50-95-4T6T.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=189357 loop_end=565164
+<region> sample=SAW-HILOWRES-50-111-SF23.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=431651 loop_end=577780
+<region> sample=SAW-HILOWRES-50-127-QGSW.wav key=48 amp_veltrack=0  lokey=45 hikey=50 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=256812 loop_end=611866
+<region> sample=SAW-HILOWRES-56-16-TD5L.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=362953 loop_end=568798
+<region> sample=SAW-HILOWRES-56-32-1NDG.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=262889 loop_end=536286
+<region> sample=SAW-HILOWRES-56-48-OT99.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=452061 loop_end=556498
+<region> sample=SAW-HILOWRES-56-64-CFXD.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=241640 loop_end=607715
+<region> sample=SAW-HILOWRES-56-79-TOAS.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=265663 loop_end=372658
+<region> sample=SAW-HILOWRES-56-95-QX0L.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=338137 loop_end=611557
+<region> sample=SAW-HILOWRES-56-111-GO3B.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=388507 loop_end=491944
+<region> sample=SAW-HILOWRES-56-127-3RVK.wav key=54 amp_veltrack=0  lokey=51 hikey=56 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=220811 loop_end=366341
+<region> sample=SAW-HILOWRES-62-16-8F2Q.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=320615 loop_end=449924
+<region> sample=SAW-HILOWRES-62-32-LDVL.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=254604 loop_end=607884
+<region> sample=SAW-HILOWRES-62-48-DZ06.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=182259 loop_end=365556
+<region> sample=SAW-HILOWRES-62-64-PVAX.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=308801 loop_end=596181
+<region> sample=SAW-HILOWRES-62-79-5RWC.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=227228 loop_end=515331
+<region> sample=SAW-HILOWRES-62-95-Y4H7.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=320078 loop_end=474058
+<region> sample=SAW-HILOWRES-62-111-DMBK.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=394574 loop_end=530845
+<region> sample=SAW-HILOWRES-62-127-BRVR.wav key=60 amp_veltrack=0  lokey=57 hikey=62 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=147544 loop_end=271408
+<region> sample=SAW-HILOWRES-68-16-S4T9.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=362556 loop_end=509251
+<region> sample=SAW-HILOWRES-68-32-JG8W.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=108148 loop_end=216189
+<region> sample=SAW-HILOWRES-68-48-37D8.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=412085 loop_end=606125
+<region> sample=SAW-HILOWRES-68-64-NQO1.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=357011 loop_end=532616
+<region> sample=SAW-HILOWRES-68-79-33IG.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=186913 loop_end=350514
+<region> sample=SAW-HILOWRES-68-95-3D1W.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=172191 loop_end=608394
+<region> sample=SAW-HILOWRES-68-111-WAR3.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=411869 loop_end=612547
+<region> sample=SAW-HILOWRES-68-127-GU3J.wav key=66 amp_veltrack=0  lokey=63 hikey=68 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=226132 loop_end=610195
+<region> sample=SAW-HILOWRES-72-16-PESW.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=1 hivel=16 loop_mode=loop_continuous loop_start=101649 loop_end=604090
+<region> sample=SAW-HILOWRES-72-32-9G7U.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=17 hivel=32 loop_mode=loop_continuous loop_start=293552 loop_end=427991
+<region> sample=SAW-HILOWRES-72-48-A8HN.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=33 hivel=48 loop_mode=loop_continuous loop_start=159192 loop_end=271569
+<region> sample=SAW-HILOWRES-72-64-JHF0.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=49 hivel=64 loop_mode=loop_continuous loop_start=225799 loop_end=601673
+<region> sample=SAW-HILOWRES-72-79-V3WR.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=65 hivel=79 loop_mode=loop_continuous loop_start=319064 loop_end=450153
+<region> sample=SAW-HILOWRES-72-95-XX6P.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=80 hivel=95 loop_mode=loop_continuous loop_start=432414 loop_end=546063
+<region> sample=SAW-HILOWRES-72-111-TBEK.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=96 hivel=111 loop_mode=loop_continuous loop_start=154944 loop_end=297084
+<region> sample=SAW-HILOWRES-72-127-1J4V.wav key=72 amp_veltrack=0  lokey=69 hikey=127 lovel=112 hivel=127 loop_mode=loop_continuous loop_start=327675 loop_end=437321
