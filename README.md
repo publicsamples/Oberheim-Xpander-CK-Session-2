@@ -12,6 +12,10 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 -   **Approx Size:** 10GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 
+[![Demo Video](https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/raw/master/embed.png)
+](https://youtu.be/vJZg7-DJKcg)
+
+
 # Loading
 
 **Logic Sampler/EXS24**
