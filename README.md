@@ -13,6 +13,16 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
+<div align="center">
+      <a href="https://youtu.be/vJZg7-DJKcg">
+     <img 
+      src="https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/raw/master/embed.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
+
+
 # Loading
 
 **Logic Sampler/EXS24**
