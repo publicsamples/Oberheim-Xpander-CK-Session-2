@@ -45,5 +45,5 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![Sample library disks](https://www.modularsamples.com/posts/products/excessive-hits/excessive-small.jpg)
+](https://gum.co/UvfQy)
