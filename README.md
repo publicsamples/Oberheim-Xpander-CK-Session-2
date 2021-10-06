@@ -1,8 +1,4 @@
 # Oberheim Xpander CK Session 2
- 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/19rwzpsl01kobp7/AAA71wvPYip7wyxR-ZgsDxJPa?dl=0)
 
 Various saw, square and triangle sounds recorded with the Xpander and an Audient ID22.
 
@@ -12,6 +8,9 @@ Various saw, square and triangle sounds recorded with the Xpander and an Audient
 -   **Approx Size:** 10GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
+
+**[Download Audio](https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/releases/tag/1.0)**
+
 
 <div align="center">
       <a href="https://youtu.be/vJZg7-DJKcg">
